@@ -3,7 +3,7 @@ import Link from "next/link";
  
 
 const Services = ({ extraClass = "" }) => {
-  const services = [
+ const services = [
     {
       id: 1,
       image: "assets/images/services/service-timeline1.jpg",
@@ -28,6 +28,46 @@ const Services = ({ extraClass = "" }) => {
       id: 5,
       image: "assets/images/services/service-timeline5.jpg",
       title: "Mobile Apps",
+    },
+    {
+      id: 6,
+      image: "assets/images/services/service-timeline6.jpg",
+      title: "Animation",
+    },
+    {
+      id: 7,
+      image: "assets/images/services/service-timeline7.jpg",
+      title: "Social Media Marketing",
+    },
+    {
+      id: 8,
+      image: "assets/images/services/service-timeline8.jpg",
+      title: "Advertisement Materials",
+    },
+    {
+      id: 9,
+      image: "assets/images/services/service-timeline9.jpg",
+      title: "Ad Film Making",
+    },
+    {
+      id: 10,
+      image: "assets/images/services/service-timeline10.jpg",
+      title: "Company Branding",
+    },
+    {
+      id: 11,
+      image: "assets/images/services/service-timeline11.jpg",
+      title: "Fashion Shoots & Portfolio",
+    },
+    {
+      id: 12,
+      image: "assets/images/services/service-timeline12.jpg",
+      title: "Software Solutions",
+    },
+    {
+      id: 13,
+      image: "assets/images/services/service-timeline13.jpg",
+      title: "Enterprise Products",
     },
   ];
   return (
