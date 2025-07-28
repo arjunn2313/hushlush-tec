@@ -52,13 +52,13 @@ const PageBanner = ({ pageTitle, pageName, textCenter = false }) => {
 
         <span className="marquee-wrap">
           <span className="marquee-inner left">
-            <span className="marquee-item">Web Design Agency</span>
+            <span className="marquee-item">Digital Marketing</span>
           </span>
           <span className="marquee-inner left">
-            <span className="marquee-item">Web Design Agency</span>
+            <span className="marquee-item">Branding</span>
           </span>
           <span className="marquee-inner left">
-            <span className="marquee-item">Web Design Agency</span>
+            <span className="marquee-item">Web Development</span>
           </span>
         </span>
       </div>
