@@ -28,7 +28,7 @@ export default function MediaGallery() {
         {/* Photo 1 */}
         <div className="col-md-6">
           <img
-            src="/assets/video/work.jpg"
+            src="/assets/video/work.JPG"
             alt="Sample 1"
             className="w-100 rounded shadow"
             style={mediaStyle}
@@ -54,7 +54,7 @@ export default function MediaGallery() {
         {/* Photo 2 */}
         <div className="col-md-6">
           <img
-            src="/assets/video/v1.jpg"
+            src="/assets/video/v1.JPG"
             alt="Sample 2"
             className="w-100 rounded shadow"
             style={mediaStyle}
